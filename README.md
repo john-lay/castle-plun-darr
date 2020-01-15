@@ -11,3 +11,12 @@ Each frame is 54x54 pixels in size and has been ripped using [AnimGet](https://m
 ## Walk
 ![walk animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/walk.gif)
 ![walk spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/walk.bmp)
+
+## Crouch
+![crouch spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/crouch.bmp)
+
+## Stand
+![stand spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/stand.bmp)
+
+## Jump
+![jump spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump.bmp)
