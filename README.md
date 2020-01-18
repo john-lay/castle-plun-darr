@@ -6,7 +6,7 @@ Design a Metroidvania style project, including resused art assets from the Atari
 # Sprites
 The sprites are presented as a Bitmap sprite sheet using the popular _hot pink_ background colour `#ff00ff` and as a gif to demonstrate.
 
-Each frame is 54x54 pixels in size and has been ripped using [AnimGet](https://mugenarchive.com/forums/downloads.php?do=file&id=61108-animget-michael-menne) and composed using Photoshop.
+Each frame is 64x64 pixels in size and has been ripped using [AnimGet](https://mugenarchive.com/forums/downloads.php?do=file&id=61108-animget-michael-menne) and composed using Photoshop.
 
 ## Walk
 ![walk animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/walk.gif)
