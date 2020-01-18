@@ -8,27 +8,38 @@ The sprites are presented as a Bitmap sprite sheet using the popular _hot pink_ 
 
 Each frame is 64x64 pixels in size and has been ripped using [AnimGet](https://mugenarchive.com/forums/downloads.php?do=file&id=61108-animget-michael-menne) and composed using Photoshop.
 
-## Walk
+## Liono
+
+The main protagonist of the game. Liono has animation frames for walking, crouching and jumping. As well as attack animations for these stances.
+
+### Walk
 ![walk animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/walk.gif)
 ![walk spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/walk.bmp)
 
-## Crouch
+### Crouch
 ![crouch spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/crouch.bmp)
 
-## Stand
+### Stand
 ![stand spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/stand.bmp)
 
-## Jump
+### Jump
 ![jump spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump.bmp)
 
-## Standing Attack
+### Standing Attack
 ![attack animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/attack.gif)
 ![attack spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/attack.bmp)
 
-## Crouching Attack
+### Crouching Attack
 ![crouch attack animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/crouch-attack.gif)
 ![crouch attack spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/crouch-attack.bmp)
 
-## Jumping Attack
+### Jumping Attack
 ![jump attack animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump-attack.gif)
 ![jump attack spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump-attack.bmp)
+
+## Vultureman
+
+An enemy from the original '80s show, with a simple walk animation.
+
+![vultureman animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/vultureman.gif)
+![vultureman spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/vultureman.bmp)
