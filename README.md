@@ -20,3 +20,15 @@ Each frame is 64x64 pixels in size and has been ripped using [AnimGet](https://m
 
 ## Jump
 ![jump spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump.bmp)
+
+## Standing Attack
+![attack animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/attack.gif)
+![attack spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/attack.bmp)
+
+## Crouching Attack
+![crouch attack animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/crouch-attack.gif)
+![crouch attack spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/crouch-attack.bmp)
+
+## Jumping Attack
+![jump attack animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump-attack.gif)
+![jump attack spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump-attack.bmp)
