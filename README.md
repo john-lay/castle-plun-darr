@@ -91,3 +91,12 @@ An original enemy, with a single frame.
 `Each frame is 32x32 pixels in size`
 
 ![eye spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/eye.bmp)
+
+## Shieldman
+
+An original enemy, with a simple walk animation. 
+
+`Each frame is 32x48 pixels in size`
+
+![shieldman animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/shieldman.gif)
+![shieldman spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/shieldman.bmp)
