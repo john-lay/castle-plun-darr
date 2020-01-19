@@ -65,3 +65,12 @@ An enemy from the original '80s show, with a simple walk animation.
 
 ![moleman animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/moleman.gif)
 ![moleman spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/moleman.bmp)
+
+## Molemaster
+
+An enemy from the original '80s show, master of the molemen, with a simple walk animation. 
+
+`Each frame is 32x48 pixels in size`
+
+![molemaster animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/molemaster.gif)
+![molemaster spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/molemaster.bmp)
