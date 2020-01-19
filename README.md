@@ -83,3 +83,11 @@ An enemy from the original '80s show, with a simple walk animation.
 
 ![jackalman animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jackalman.gif)
 ![jackalman spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jackalman.bmp)
+
+## Eye
+
+An original enemy, with a single frame. 
+
+`Each frame is 32x32 pixels in size`
+
+![eye spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/eye.bmp)
