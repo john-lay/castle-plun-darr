@@ -56,3 +56,12 @@ An original enemy, with a simple fly animation.
 
 ![bat animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/bat.gif)
 ![bat spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/bat.bmp)
+
+## Moleman
+
+An enemy from the original '80s show, with a simple walk animation. 
+
+`Each frame is 32x48 pixels in size`
+
+![moleman animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/moleman.gif)
+![moleman spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/moleman.bmp)
