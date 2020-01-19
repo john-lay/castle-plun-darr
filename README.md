@@ -47,3 +47,12 @@ An enemy from the original '80s show, with a simple walk animation.
 
 ![vultureman animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/vultureman.gif)
 ![vultureman spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/vultureman.bmp)
+
+## Bat
+
+An original enemy, with a simple fly animation. 
+
+`Each frame is 32x48 pixels in size`
+
+![bat animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/bat.gif)
+![bat spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/bat.bmp)
