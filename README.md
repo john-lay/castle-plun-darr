@@ -39,6 +39,21 @@ The main protagonist of the game. Liono has animation frames for walking, crouch
 ![jump attack animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump-attack.gif)
 ![jump attack spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump-attack.bmp)
 
+### Standing Shot
+![standing shot animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/stand-shot.gif)
+![standing shot spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/stand-shot.bmp)
+
+### Crouching Shot
+![crouch shot animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/crouch-shot.gif)
+![crouch shot spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/crouch-shot.bmp)
+
+### Jumping Shot
+![jump shot animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump-shot.gif)
+![jump shot spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump-shot.bmp)
+
+### Shot
+![shot spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/shot.bmp)
+
 ## Vultureman
 
 An enemy from the original '80s show, with a simple walk animation. 
