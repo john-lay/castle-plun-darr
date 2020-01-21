@@ -115,3 +115,12 @@ An original enemy, with a simple walk animation.
 
 ![shieldman animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/shieldman.gif)
 ![shieldman spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/shieldman.bmp)
+
+## Astronaut
+
+An original enemy, with a simple walk animation. 
+
+`Each frame is 32x48 pixels in size`
+
+![astronaut animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/astronaut.gif)
+![astronaut spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/astronaut.bmp)
