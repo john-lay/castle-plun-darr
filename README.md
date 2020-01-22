@@ -54,6 +54,10 @@ The main protagonist of the game. Liono has animation frames for walking, crouch
 ### Shot
 ![shot spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/shot.bmp)
 
+### Death
+![death animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/death.gif)
+![death spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/death.bmp)
+
 ## Vultureman
 
 An enemy from the original '80s show, with a simple walk animation. 
