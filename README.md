@@ -27,36 +27,36 @@ The main protagonist of the game. Liono has animation frames for walking, crouch
 ### Jump
 ![jump spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump.bmp)
 
-### Standing Attack
+### Stand Attack
 ![attack animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/attack.gif)
 ![attack spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/attack.bmp)
 
-### Crouching Attack
+### Crouch Attack
 ![crouch attack animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/crouch-attack.gif)
 ![crouch attack spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/crouch-attack.bmp)
 
-### Jumping Attack
+### Jump Attack
 ![jump attack animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump-attack.gif)
 ![jump attack spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump-attack.bmp)
 
-### Standing Shot
+### Stand Shot
 ![standing shot animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/stand-shot.gif)
 ![standing shot spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/stand-shot.bmp)
 
-### Crouching Shot
+### Crouch Shot
 ![crouch shot animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/crouch-shot.gif)
 ![crouch shot spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/crouch-shot.bmp)
 
-### Jumping Shot
+### Jump Shot
 ![jump shot animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump-shot.gif)
 ![jump shot spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/jump-shot.bmp)
 
 ### Shot
 ![shot spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/shot.bmp)
 
-### Death
-![death animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/death.gif)
-![death spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/death.bmp)
+### Die
+![die animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/die.gif)
+![die spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/die.bmp)
 
 ## Vultureman
 
