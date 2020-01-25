@@ -138,3 +138,12 @@ The main antagonist from the original '80s show, with a simple attack animation.
 ![mummra animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/mummra.gif)
 ![mummra spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/mummra.bmp)
 ![mummra shot spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/mummra-shot.bmp)
+
+## Fireflake
+
+An original enemy, with a simple rotate animation. 
+
+`Each frame is 32x32 pixels in size`
+
+![fireflake animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/fireflake.gif)
+![fireflake spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/fireflake.bmp)
