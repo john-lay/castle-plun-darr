@@ -147,3 +147,11 @@ An original enemy, with a simple rotate animation.
 
 ![fireflake animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/fireflake.gif)
 ![fireflake spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/fireflake.bmp)
+
+## Miscellaneous sprites
+
+Animations found in the game which are not hero or enemy sprites.
+
+### Drown
+![drown animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/drown.gif)
+![drown spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/drown.bmp)
