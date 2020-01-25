@@ -8,9 +8,9 @@ The sprites are presented as a Bitmap sprite sheet using the popular _hot pink_ 
 
 Each frame has been ripped using [AnimGet](https://mugenarchive.com/forums/downloads.php?do=file&id=61108-animget-michael-menne) and composed using Photoshop.
 
-## Liono
+## Lion-O
 
-The main protagonist of the game. Liono has animation frames for walking, crouching and jumping. As well as attack animations for these stances.
+The main protagonist of the game. Lion-O has animation frames for walking, crouching and jumping. As well as attack animations for these stances.
 
 `Each frame is 64x64 pixels in size`
 
@@ -129,7 +129,7 @@ An original enemy, with a simple walk animation.
 ![astronaut animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/astronaut.gif)
 ![astronaut spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/astronaut.bmp)
 
-## Mummra
+## Mumm-Ra
 
 The main antagonist from the original '80s show, with a simple attack animation. 
 
