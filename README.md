@@ -128,3 +128,13 @@ An original enemy, with a simple walk animation.
 
 ![astronaut animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/astronaut.gif)
 ![astronaut spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/astronaut.bmp)
+
+## Mummra
+
+The main antagonist from the original '80s show, with a simple attack animation. 
+
+`Each frame is 64x64 pixels in size`
+
+![mummra animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/mummra.gif)
+![mummra spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/mummra.bmp)
+![mummra shot spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/mummra-shot.bmp)
