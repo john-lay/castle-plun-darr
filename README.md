@@ -159,3 +159,7 @@ Animations found in the game which are not hero or enemy sprites.
 ### Bubble
 ![bubble animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/bubble.gif)
 ![bubble spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/bubble.bmp)
+
+### Water
+![water animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/water.gif)
+![water spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/water.bmp)
