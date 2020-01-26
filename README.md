@@ -58,6 +58,15 @@ The main protagonist of the game. Lion-O has animation frames for walking, crouc
 ![die animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/die.gif)
 ![die spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/die.bmp)
 
+### Landspeeder
+
+An original vehicle resembling a flying car, with a single blaster attack
+
+`Each frame is 64x32 pixels in size`
+
+![landspeeder animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/landspeeder.gif)
+![landspeeder spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/landspeeder.bmp)
+
 ## Vultureman
 
 An enemy from the original '80s show, with a simple walk animation. 
