@@ -67,6 +67,15 @@ An original vehicle resembling a flying car, with a single blaster attack
 ![landspeeder animation](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/landspeeder.gif)
 ![landspeeder spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/landspeeder.bmp)
 
+## New animation
+
+New abilities for Lion-O. Inspired by commonly seen skills gained in the GBA Castlevania games
+
+`Each frame is 64x64 pixels in size`
+
+### Slide
+![slide spritesheet](https://github.com/john-lay/castle-plun-darr/raw/develop/sprites/slide.bmp)
+
 ## Vultureman
 
 An enemy from the original '80s show, with a simple walk animation. 
