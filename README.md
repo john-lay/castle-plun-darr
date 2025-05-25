@@ -3,6 +3,8 @@
 # Introduction
 Design a Metroidvania style project, including resused art assets from the Atari ST version of [ThunderCats: The Lost Eye of Thundera](https://en.wikipedia.org/wiki/ThunderCats_(1987_video_game))
 
+![gameboy screenshot](https://github.com/john-lay/castle-plun-darr/raw/develop/game/gb-screenshot.png)
+
 # Sprites
 The sprites are presented as a Bitmap sprite sheet using the popular _hot pink_ background colour `#ff00ff` and as a gif to demonstrate.
 
